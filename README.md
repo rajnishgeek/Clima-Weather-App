@@ -1,9 +1,19 @@
+# Weather App
+
+## It is an Android and iOS Mobile App that gives live weather data using weather API.
+
+### Technology Used:
+
+1. Flutter
+2. Dart
 
 
+### Packages Used:
 
-
-
-
+1. cupertino_icons
+2. geolocator
+3. http
+4. flutter_spinkit
 
 
 ## App UI ScreenShots
