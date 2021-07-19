@@ -18,7 +18,7 @@
 
 
 
-## App UI ScreenShots
+## App UI Screenshots
 
 ### Main Page UI:
 
