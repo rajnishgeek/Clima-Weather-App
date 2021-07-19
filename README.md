@@ -6,7 +6,8 @@
 <img src="images/4.jpg" width="260" height="540" align="left">
 </div>
 
-### Search Bar UI
+  
+  ### Search Bar UI
 
 <div>
 <img src="images/1.jpg" width="260" height="540" align="left">
