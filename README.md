@@ -34,7 +34,7 @@
 ## Video Demos
 
 ### Demo 1:
-<div></div>
+
 https://user-images.githubusercontent.com/50834301/126122130-54a6d3fc-5ead-4985-8503-bea4b8fa2fb7.mp4
 
 
